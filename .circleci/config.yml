@@ -1,6 +1,6 @@
 # 設定ファイル1
 version: 2
-jobs:
+job:
  build:
   docker:
    - image: circleci/node:8.11.3
