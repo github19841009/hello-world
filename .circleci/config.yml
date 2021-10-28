@@ -5,4 +5,4 @@ jobs:
   docker:
    - image: circleci/node:8.11.3
   steps:
-   - run: echo "hello world"
+   - run: echo "hello world I'm YASU!"
